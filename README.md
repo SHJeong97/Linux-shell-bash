@@ -47,7 +47,7 @@ The projects and scripts here demonstrate how lightweight Linux tools can suppor
 
 ---
 
-🧪 Learning Sources & Attribution
+### 🧪 Learning Sources & Attribution
 
 Some foundational exercises and labs in this repository are inspired by hands-on cybersecurity labs completed on LabEx.io.
 
@@ -59,7 +59,7 @@ No proprietary lab instructions or solutions are shared
 
 This repository reflects my applied learning and personal execution, not copied platform materials.
 
-📈 Progress & Methodology
+### 📈 Progress & Methodology
 
 Incremental commits show skill progression
 
@@ -69,12 +69,12 @@ Emphasis on clarity, comments, and security context
 
 Focus on realistic defensive scenarios
 
-⚠️ Disclaimer
+### ⚠️ Disclaimer
 
 All scripts are provided for educational and demonstration purposes only.
 Review and test before using in production or sensitive environments.
 
-🎯 Career Alignment
+### 🎯 Career Alignment
 
 This repository supports preparation for:
 
